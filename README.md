@@ -250,7 +250,7 @@ See the [`screenshots/`](./screenshots) folder for the full set:
 - **`screenshots/mongodb/`** — collection creation, sample documents, `$group` and `$lookup` aggregation results
 - **`screenshots/gui/`** — insert, update, and delete flows shown end-to-end (GUI → live MongoDB update)
 
-Full write-up with every screenshot inline is in [`docs/DB_PROJECT_final1.pdf`](./docs/DB_PROJECT_final1.pdf).
+Full write-up with every screenshot inline is in [`docs/DB_PROJECT_final1.pdf`](./docs/hotel-management-system-report.pdf).
 
 ---
 
