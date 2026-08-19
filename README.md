@@ -133,8 +133,6 @@ hotel-management-database-system/
     └── gui/           ← GUI screenshots (insert/update/delete flows)
 ```
 
-> **About the JSON files:** You mentioned you don't have JSON files yet. Since your MongoDB collections already exist in Compass, the easiest path is to **export each collection from Compass** (`Collection → Export Data → Export Full Collection → JSON`) and drop the resulting files into `mongodb/json/`. This lets anyone who clones your repo `mongoimport` the data and get your exact database running locally — turning your project from "screenshots of a database" into "a database anyone can rebuild."
-
 ---
 
 ## Relational Schema (Oracle SQL)
