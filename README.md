@@ -93,44 +93,37 @@ Here's the structure I'd recommend for your repo — it keeps the SQL side, the 
 ```
 hotel-management-database-system/
 │
-├── README.md                         
+├── README.md
 ├── LICENSE
 ├── .gitignore
 │
-├── docs/
-│   ├── DB_PROJECT_final1.pdf          ← full project report (EER + schema + all queries)
-│   ├── EER_diagram.jpg                ← cropped image of the hand-drawn EER diagram
-│   └── relational_schema.jpg          ← cropped image of the relational schema notes
+├── Documentation/                     ← full project report (EER diagram, schema, all queries)
+│
+├── SQL Screenshots/                   ← Oracle SQL Developer screenshots (table creation, query results)
+├── MongoDB Screenshots/               ← Compass screenshots (collections, documents, aggregations)
+├── GUI Screenshots/                   ← GUI screenshots (insert/update/delete flows)
 │
 ├── sql/
-│   ├── PROJECT_SQL.sql                ← full DDL + DML (Oracle) — table creation & inserts
+│   ├── schema_and_seed_data.sql       ← full DDL + DML (Oracle) — table creation & inserts
 │   └── queries/
-│       ├── join_query.sql
-│       ├── subquery.sql
-│       └── set_operator.sql
+│       ├── 01_join_guest_booking.sql
+│       ├── 02_subquery_hotel_avg_price.sql
+│       └── 03_union_member_walking_guest.sql
 │
-├── mongodb/
-│   ├── json/                          
-│   │   ├── hotel.json
-│   │   ├── room.json
-│   │   ├── amenity.json
-│   │   ├── guest.json
-│   │   ├── booking.json
-│   │   ├── staff.json
-│   │   ├── staff_profile.json
-│   │   └── ... (one file per collection)
-│   └── aggregations/
-│       ├── total_amount_due.js        ← $group: sum of AmountDue
-│       ├── group_by_payment_mode.js   ← $group by PaymentMode with count
-│       └── lookup_room_hotel.js       ← $lookup joining rooms → hotels
-│
-├── gui/
-│   └── (your Java Swing source code, e.g. src/, .java files, or the packaged .jar)
-│
-└── screenshots/
-    ├── sql/           ← Oracle SQL Developer screenshots (table creation, query results)
-    ├── mongodb/       ← Compass screenshots (collections, documents, aggregations)
-    └── gui/           ← GUI screenshots (insert/update/delete flows)
+└── mongodb/
+    ├── json/                          ← one JSON file per collection, generated from the SQL seed data
+    │   ├── hotel.json
+    │   ├── room.json
+    │   ├── amenity.json
+    │   ├── guest.json
+    │   ├── booking.json
+    │   ├── staff.json
+    │   ├── staff_profile.json
+    │   └── ... (25 total)
+    └── aggregations/
+        ├── total_amount_due.js              ← $group: sum of AmountDue
+        ├── group_invoices_by_payment_mode.js← $group by PaymentMode with count
+        └── join_staff_with_hotel.js         ← $lookup joining staff → hotels
 ```
 
 ---
