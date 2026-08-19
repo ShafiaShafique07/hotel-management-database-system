@@ -1,0 +1,66 @@
+[
+  {
+    "bookingid": 1,
+    "check_date": "2026-01-10",
+    "checkout_date": "2026-01-15",
+    "status": "Confirmed",
+    "staffid": 2,
+    "guestid": 1
+  },
+  {
+    "bookingid": 2,
+    "check_date": "2026-02-01",
+    "checkout_date": "2026-02-05",
+    "status": "Confirmed",
+    "staffid": 2,
+    "guestid": 2
+  },
+  {
+    "bookingid": 3,
+    "check_date": "2026-02-10",
+    "checkout_date": "2026-02-14",
+    "status": "Checked-Out",
+    "staffid": 4,
+    "guestid": 3
+  },
+  {
+    "bookingid": 4,
+    "check_date": "2026-03-01",
+    "checkout_date": "2026-03-07",
+    "status": "Confirmed",
+    "staffid": 2,
+    "guestid": 4
+  },
+  {
+    "bookingid": 5,
+    "check_date": "2026-03-15",
+    "checkout_date": "2026-03-20",
+    "status": "Cancelled",
+    "staffid": 4,
+    "guestid": 5
+  },
+  {
+    "bookingid": 6,
+    "check_date": "2026-04-01",
+    "checkout_date": "2026-04-03",
+    "status": "Confirmed",
+    "staffid": 2,
+    "guestid": 6
+  },
+  {
+    "bookingid": 7,
+    "check_date": "2026-04-10",
+    "checkout_date": "2026-04-15",
+    "status": "Confirmed",
+    "staffid": 4,
+    "guestid": 7
+  },
+  {
+    "bookingid": 8,
+    "check_date": "2026-05-01",
+    "checkout_date": "2026-05-04",
+    "status": "Confirmed",
+    "staffid": 2,
+    "guestid": 8
+  }
+]

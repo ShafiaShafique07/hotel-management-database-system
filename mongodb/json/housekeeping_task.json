@@ -1,0 +1,82 @@
+[
+  {
+    "taskid": 1,
+    "task_type": "Cleaning",
+    "priority": "HIGH",
+    "scheduleat": "2024-04-01 08:00:00",
+    "note": "Guest checked out",
+    "status": "COMPLETED",
+    "completeat": "2024-04-01 09:15:00",
+    "roomid": 102
+  },
+  {
+    "taskid": 2,
+    "task_type": "Linen Change",
+    "priority": "NORMAL",
+    "scheduleat": "2024-04-01 09:00:00",
+    "note": "Routine linen swap",
+    "status": "COMPLETED",
+    "completeat": "2024-04-01 09:45:00",
+    "roomid": 103
+  },
+  {
+    "taskid": 3,
+    "task_type": "Deep Clean",
+    "priority": "HIGH",
+    "scheduleat": "2024-04-02 10:00:00",
+    "note": "Post long stay clean",
+    "status": "COMPLETED",
+    "completeat": "2024-04-02 12:30:00",
+    "roomid": 104
+  },
+  {
+    "taskid": 4,
+    "task_type": "Restocking",
+    "priority": "NORMAL",
+    "scheduleat": "2024-04-03 11:00:00",
+    "note": "Refill toiletries",
+    "status": "COMPLETED",
+    "completeat": "2024-04-03 11:30:00",
+    "roomid": 105
+  },
+  {
+    "taskid": 5,
+    "task_type": "Inspection",
+    "priority": "URGENT",
+    "scheduleat": "2024-04-04 07:00:00",
+    "note": "VIP guest arriving",
+    "status": "COMPLETED",
+    "completeat": "2024-04-04 07:45:00",
+    "roomid": 106
+  },
+  {
+    "taskid": 6,
+    "task_type": "Turndown",
+    "priority": "NORMAL",
+    "scheduleat": "2024-04-05 18:00:00",
+    "note": "Evening turndown svc",
+    "status": "IN PROGRESS",
+    "completeat": null,
+    "roomid": 107
+  },
+  {
+    "taskid": 7,
+    "task_type": "Cleaning",
+    "priority": "LOW",
+    "scheduleat": "2024-04-06 13:00:00",
+    "note": "Spot clean requested",
+    "status": "PENDING",
+    "completeat": null,
+    "roomid": 108
+  },
+  {
+    "taskid": 8,
+    "task_type": "Linen Change",
+    "priority": "URGENT",
+    "scheduleat": "2024-04-06 14:00:00",
+    "note": "Spill reported by guest",
+    "status": "PENDING",
+    "completeat": null,
+    "roomid": 109
+  }
+]

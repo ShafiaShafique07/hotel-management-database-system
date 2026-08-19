@@ -1,0 +1,27 @@
+[
+  {
+    "guestid": 1,
+    "memberid": 1001,
+    "member_type": "Gold"
+  },
+  {
+    "guestid": 2,
+    "memberid": 1002,
+    "member_type": "Silver"
+  },
+  {
+    "guestid": 3,
+    "memberid": 1003,
+    "member_type": "Gold"
+  },
+  {
+    "guestid": 4,
+    "memberid": 1004,
+    "member_type": "Platinum"
+  },
+  {
+    "guestid": 5,
+    "memberid": 1005,
+    "member_type": "Silver"
+  }
+]

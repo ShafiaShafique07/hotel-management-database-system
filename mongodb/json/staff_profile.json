@@ -1,0 +1,58 @@
+[
+  {
+    "userid": 1,
+    "username": "ahmed.khan",
+    "password": "$2b$12$KIXab",
+    "accesslevel": "Admin",
+    "staffid": 1
+  },
+  {
+    "userid": 2,
+    "username": "sara.malik",
+    "password": "$2b$12$LJY",
+    "accesslevel": "Manager",
+    "staffid": 2
+  },
+  {
+    "userid": 3,
+    "username": "usman.ali",
+    "password": "$2b$12$MK",
+    "accesslevel": "FrontDesk",
+    "staffid": 3
+  },
+  {
+    "userid": 4,
+    "username": "hina.raza",
+    "password": "$2b$12$NLA",
+    "accesslevel": "FrontDesk",
+    "staffid": 4
+  },
+  {
+    "userid": 5,
+    "username": "bilal.qureshi",
+    "password": "$2b$12$OMB",
+    "accesslevel": "Housekeeping",
+    "staffid": 5
+  },
+  {
+    "userid": 6,
+    "username": "zara.hussain",
+    "password": "$2b$12$PN",
+    "accesslevel": "Housekeeping",
+    "staffid": 6
+  },
+  {
+    "userid": 7,
+    "username": "tariq.mehmood",
+    "password": "$2b$12$QOD",
+    "accesslevel": "Maintenance",
+    "staffid": 7
+  },
+  {
+    "userid": 8,
+    "username": "nadia.shah",
+    "password": "$2b$12$RPE",
+    "accesslevel": "Manager",
+    "staffid": 8
+  }
+]

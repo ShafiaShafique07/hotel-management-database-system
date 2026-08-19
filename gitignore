@@ -1,0 +1,21 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.class
+
+# Build output
+/build/
+/target/
+*.jar
+!lib/*.jar
+
+# Logs
+*.log
+
+# Env / secrets
+.env

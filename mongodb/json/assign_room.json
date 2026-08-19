@@ -1,0 +1,42 @@
+[
+  {
+    "bookingid": 1,
+    "roomid": 101,
+    "assign_date": "2026-01-10"
+  },
+  {
+    "bookingid": 2,
+    "roomid": 108,
+    "assign_date": "2026-02-01"
+  },
+  {
+    "bookingid": 3,
+    "roomid": 103,
+    "assign_date": "2026-02-10"
+  },
+  {
+    "bookingid": 4,
+    "roomid": 106,
+    "assign_date": "2026-03-01"
+  },
+  {
+    "bookingid": 5,
+    "roomid": 110,
+    "assign_date": "2026-03-15"
+  },
+  {
+    "bookingid": 6,
+    "roomid": 113,
+    "assign_date": "2026-04-01"
+  },
+  {
+    "bookingid": 7,
+    "roomid": 105,
+    "assign_date": "2026-04-10"
+  },
+  {
+    "bookingid": 8,
+    "roomid": 109,
+    "assign_date": "2026-05-01"
+  }
+]

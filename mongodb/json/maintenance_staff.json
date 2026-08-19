@@ -1,0 +1,34 @@
+[
+  {
+    "staffid": 9,
+    "specialist": "Plumbing"
+  },
+  {
+    "staffid": 10,
+    "specialist": "Electrical"
+  },
+  {
+    "staffid": 11,
+    "specialist": "HVAC"
+  },
+  {
+    "staffid": 12,
+    "specialist": "Carpentry"
+  },
+  {
+    "staffid": 13,
+    "specialist": "Painting"
+  },
+  {
+    "staffid": 14,
+    "specialist": "Electrical"
+  },
+  {
+    "staffid": 15,
+    "specialist": "Plumbing"
+  },
+  {
+    "staffid": 16,
+    "specialist": "General Repair"
+  }
+]

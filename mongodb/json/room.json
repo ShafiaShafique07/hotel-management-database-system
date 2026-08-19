@@ -1,0 +1,142 @@
+[
+  {
+    "roomid": 101,
+    "roomnum": "101",
+    "floor": 1,
+    "status": "Available",
+    "wing": "East",
+    "building": "Block A",
+    "pricepernight": 8000,
+    "hotelid": 1
+  },
+  {
+    "roomid": 102,
+    "roomnum": "102",
+    "floor": 1,
+    "status": "Occupied",
+    "wing": "East",
+    "building": "Block A",
+    "pricepernight": 8000,
+    "hotelid": 1
+  },
+  {
+    "roomid": 103,
+    "roomnum": "201",
+    "floor": 2,
+    "status": "Available",
+    "wing": "West",
+    "building": "Block A",
+    "pricepernight": 12000,
+    "hotelid": 1
+  },
+  {
+    "roomid": 104,
+    "roomnum": "301",
+    "floor": 3,
+    "status": "Maintenance",
+    "wing": "West",
+    "building": "Block B",
+    "pricepernight": 25000,
+    "hotelid": 1
+  },
+  {
+    "roomid": 105,
+    "roomnum": "401",
+    "floor": 4,
+    "status": "Available",
+    "wing": "North",
+    "building": "Block B",
+    "pricepernight": 35000,
+    "hotelid": 1
+  },
+  {
+    "roomid": 106,
+    "roomnum": "101",
+    "floor": 1,
+    "status": "Available",
+    "wing": "North",
+    "building": "Main",
+    "pricepernight": 5000,
+    "hotelid": 2
+  },
+  {
+    "roomid": 107,
+    "roomnum": "102",
+    "floor": 1,
+    "status": "Occupied",
+    "wing": "North",
+    "building": "Main",
+    "pricepernight": 5000,
+    "hotelid": 2
+  },
+  {
+    "roomid": 108,
+    "roomnum": "201",
+    "floor": 2,
+    "status": "Available",
+    "wing": "South",
+    "building": "Main",
+    "pricepernight": 9000,
+    "hotelid": 3
+  },
+  {
+    "roomid": 109,
+    "roomnum": "202",
+    "floor": 2,
+    "status": "Occupied",
+    "wing": "South",
+    "building": "Main",
+    "pricepernight": 9500,
+    "hotelid": 3
+  },
+  {
+    "roomid": 110,
+    "roomnum": "301",
+    "floor": 3,
+    "status": "Available",
+    "wing": "East",
+    "building": "Tower",
+    "pricepernight": 30000,
+    "hotelid": 4
+  },
+  {
+    "roomid": 111,
+    "roomnum": "302",
+    "floor": 3,
+    "status": "Occupied",
+    "wing": "East",
+    "building": "Tower",
+    "pricepernight": 30000,
+    "hotelid": 4
+  },
+  {
+    "roomid": 112,
+    "roomnum": "401",
+    "floor": 4,
+    "status": "Available",
+    "wing": "West",
+    "building": "Tower",
+    "pricepernight": 45000,
+    "hotelid": 4
+  },
+  {
+    "roomid": 113,
+    "roomnum": "101",
+    "floor": 1,
+    "status": "Available",
+    "wing": "Main",
+    "building": "Lodge",
+    "pricepernight": 4000,
+    "hotelid": 5
+  },
+  {
+    "roomid": 114,
+    "roomnum": "102",
+    "floor": 1,
+    "status": "Maintenance",
+    "wing": "Main",
+    "building": "Lodge",
+    "pricepernight": 4500,
+    "hotelid": 5
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "hotelid": 1,
+    "hotelname": "Grand Palace Hotel",
+    "city": "Islamabad",
+    "country": "Pakistan",
+    "starrating": 5
+  },
+  {
+    "hotelid": 2,
+    "hotelname": "City Comfort Inn",
+    "city": "Lahore",
+    "country": "Pakistan",
+    "starrating": 3
+  },
+  {
+    "hotelid": 3,
+    "hotelname": "Royal Stay",
+    "city": "Karachi",
+    "country": "Pakistan",
+    "starrating": 4
+  },
+  {
+    "hotelid": 4,
+    "hotelname": "Blue Horizon",
+    "city": "Balochistan",
+    "country": "Pakistan",
+    "starrating": 5
+  },
+  {
+    "hotelid": 5,
+    "hotelname": "Mountain View Lodge",
+    "city": "Murree",
+    "country": "Pakistan",
+    "starrating": 3
+  }
+]

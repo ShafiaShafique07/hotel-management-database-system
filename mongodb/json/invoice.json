@@ -1,0 +1,66 @@
+[
+  {
+    "InvoiceID": 1,
+    "IssueDate": "2024-01-05",
+    "AmountDue": 450.0,
+    "PaymentMode": "Credit Card",
+    "Paid": 1296,
+    "BookingID": 1
+  },
+  {
+    "InvoiceID": 2,
+    "IssueDate": "2024-01-12",
+    "AmountDue": 820.5,
+    "PaymentMode": "Cash",
+    "Paid": 8296,
+    "BookingID": 2
+  },
+  {
+    "InvoiceID": 3,
+    "IssueDate": "2024-02-03",
+    "AmountDue": 1200.0,
+    "PaymentMode": "Bank Transfer",
+    "Paid": 3456,
+    "BookingID": 3
+  },
+  {
+    "InvoiceID": 4,
+    "IssueDate": "2024-02-18",
+    "AmountDue": 375.75,
+    "PaymentMode": "Debit Card",
+    "Paid": 7654,
+    "BookingID": 4
+  },
+  {
+    "InvoiceID": 5,
+    "IssueDate": "2024-03-07",
+    "AmountDue": 650.0,
+    "PaymentMode": "Credit Card",
+    "Paid": 1234,
+    "BookingID": 5
+  },
+  {
+    "InvoiceID": 6,
+    "IssueDate": "2024-03-22",
+    "AmountDue": 980.25,
+    "PaymentMode": "Cash",
+    "Paid": 5670,
+    "BookingID": 6
+  },
+  {
+    "InvoiceID": 7,
+    "IssueDate": "2024-04-10",
+    "AmountDue": 2150.0,
+    "PaymentMode": "Bank Transfer",
+    "Paid": 4320,
+    "BookingID": 7
+  },
+  {
+    "InvoiceID": 8,
+    "IssueDate": "2024-04-28",
+    "AmountDue": 530.5,
+    "PaymentMode": "Debit Card",
+    "Paid": 1234,
+    "BookingID": 8
+  }
+]

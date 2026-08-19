@@ -1,0 +1,22 @@
+[
+  {
+    "roomid": 104,
+    "lounge": "Executive Lounge",
+    "jacuzzi": "Yes"
+  },
+  {
+    "roomid": 105,
+    "lounge": "Royal Lounge",
+    "jacuzzi": "Yes"
+  },
+  {
+    "roomid": 110,
+    "lounge": "Premium Lounge",
+    "jacuzzi": "Yes"
+  },
+  {
+    "roomid": 112,
+    "lounge": "Grand Lounge",
+    "jacuzzi": "Yes"
+  }
+]

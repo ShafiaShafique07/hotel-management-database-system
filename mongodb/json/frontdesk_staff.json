@@ -1,0 +1,42 @@
+[
+  {
+    "staffid": 17,
+    "desk": "Check-In",
+    "shifttime": "Morning (6AM-2PM)"
+  },
+  {
+    "staffid": 18,
+    "desk": "Check-Out",
+    "shifttime": "Morning (6AM-2PM)"
+  },
+  {
+    "staffid": 19,
+    "desk": "Concierge",
+    "shifttime": "Morning (6AM-2PM)"
+  },
+  {
+    "staffid": 20,
+    "desk": "Check-In",
+    "shifttime": "Afternoon (2PM-10PM)"
+  },
+  {
+    "staffid": 21,
+    "desk": "Check-Out",
+    "shifttime": "Afternoon (2PM-10PM)"
+  },
+  {
+    "staffid": 22,
+    "desk": "Reservations",
+    "shifttime": "Afternoon (2PM-10PM)"
+  },
+  {
+    "staffid": 23,
+    "desk": "Check-In",
+    "shifttime": "Night (10PM-6AM)"
+  },
+  {
+    "staffid": 24,
+    "desk": "Concierge",
+    "shifttime": "Night (10PM-6AM)"
+  }
+]

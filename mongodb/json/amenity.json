@@ -1,0 +1,52 @@
+[
+  {
+    "amenityid": 1,
+    "category": "Entertainment",
+    "amenityname": "Flat Screen TV"
+  },
+  {
+    "amenityid": 2,
+    "category": "Comfort",
+    "amenityname": "Air Conditioning"
+  },
+  {
+    "amenityid": 3,
+    "category": "Comfort",
+    "amenityname": "King Size Bed"
+  },
+  {
+    "amenityid": 4,
+    "category": "Hygiene",
+    "amenityname": "Private Bathroom"
+  },
+  {
+    "amenityid": 5,
+    "category": "Luxury",
+    "amenityname": "Jacuzzi"
+  },
+  {
+    "amenityid": 6,
+    "category": "Connectivity",
+    "amenityname": "Free WiFi"
+  },
+  {
+    "amenityid": 7,
+    "category": "Food",
+    "amenityname": "Mini Bar"
+  },
+  {
+    "amenityid": 8,
+    "category": "Luxury",
+    "amenityname": "Lounge Area"
+  },
+  {
+    "amenityid": 9,
+    "category": "Comfort",
+    "amenityname": "Balcony"
+  },
+  {
+    "amenityid": 10,
+    "category": "Hygiene",
+    "amenityname": "Bathtub"
+  }
+]

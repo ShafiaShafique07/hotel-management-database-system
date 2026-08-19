@@ -1,0 +1,14 @@
+[
+  {
+    "guestid": 6,
+    "arrival_mode": "Walk-in"
+  },
+  {
+    "guestid": 7,
+    "arrival_mode": "Referral"
+  },
+  {
+    "guestid": 8,
+    "arrival_mode": "Walk-in"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "staffid": 1,
+    "floor_assign": 1,
+    "shifttime": "Morning (6AM-2PM)"
+  },
+  {
+    "staffid": 2,
+    "floor_assign": 2,
+    "shifttime": "Morning (6AM-2PM)"
+  },
+  {
+    "staffid": 3,
+    "floor_assign": 3,
+    "shifttime": "Afternoon (2PM-10PM)"
+  },
+  {
+    "staffid": 4,
+    "floor_assign": 4,
+    "shifttime": "Afternoon (2PM-10PM)"
+  },
+  {
+    "staffid": 5,
+    "floor_assign": 1,
+    "shifttime": "Night (10PM-6AM)"
+  },
+  {
+    "staffid": 6,
+    "floor_assign": 2,
+    "shifttime": "Night (10PM-6AM)"
+  },
+  {
+    "staffid": 7,
+    "floor_assign": 3,
+    "shifttime": "Morning (6AM-2PM)"
+  },
+  {
+    "staffid": 8,
+    "floor_assign": 5,
+    "shifttime": "Afternoon (2PM-10PM)"
+  }
+]

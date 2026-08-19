@@ -1,0 +1,34 @@
+[
+  {
+    "roomid": 104,
+    "staffid": 3
+  },
+  {
+    "roomid": 114,
+    "staffid": 3
+  },
+  {
+    "roomid": 102,
+    "staffid": 7
+  },
+  {
+    "roomid": 107,
+    "staffid": 7
+  },
+  {
+    "roomid": 111,
+    "staffid": 8
+  },
+  {
+    "roomid": 109,
+    "staffid": 8
+  },
+  {
+    "roomid": 104,
+    "staffid": 5
+  },
+  {
+    "roomid": 110,
+    "staffid": 5
+  }
+]
